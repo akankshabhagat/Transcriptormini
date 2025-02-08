@@ -73,7 +73,7 @@ ffmpeg-python
 ```
 
 ## 🎥 Demo  
-📹 _(https://youtu.be/NpxjdWnK4BM)_  
+📹 [Watch Demo](https://youtu.be/NpxjdWnK4BM)
 
 ## 🛠️ Troubleshooting  
 - **FFmpeg Not Found**: Ensure it's installed and added to your system PATH.  
